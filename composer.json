@@ -1,0 +1,20 @@
+{
+    "name": "Client Managment",
+    "description": "This is a client log book web app",
+    "authors": [ 
+        {
+            "name": "Mir M.",
+            "email": "hello@mirm.pro",
+            "homepage": "https://www.mirm.pro",
+            "role": "Developer"
+        }
+    ],
+
+    "autoload": {
+      "psr-4": {
+          "App\\" : "app/"
+      }
+    }
+    
+}
+  
